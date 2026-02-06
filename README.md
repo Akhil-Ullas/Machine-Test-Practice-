@@ -62,19 +62,8 @@ This repository contains **machine-test style machine learning projects** coveri
 
 ---
 
-## ➕ Additional Practice
 
-* Python programming logic exercises
-* Pandas-based data manipulation and aggregation
-* Data visualization using Matplotlib and Seaborn
 
----
 
-## ✅ Key Takeaways
-
-* Preprocessing strongly influences model performance
-* Cross-validation enables fair model comparison
-* Gradient Boosting performs well on structured tabular data
-* Hyperparameter tuning improves generalization
 
 
